@@ -1,5 +1,6 @@
 ## Selectize Enter Key Submit
 
+[![Build Status](https://img.shields.io/travis/wayneashleyberry/selectize-enter-key-submit/master.svg?style=flat)](https://travis-ci.org/wayneashleyberry/selectize-enter-key-submit)
 [![devDependency Status](https://david-dm.org/wayneashleyberry/selectize-enter-key-submit/dev-status.svg?style=flat)](https://david-dm.org/wayneashleyberry/selectize-enter-key-submit#info=devDependencies)
 
 This is a little [Selectize](https://github.com/brianreavis/selectize.js)
