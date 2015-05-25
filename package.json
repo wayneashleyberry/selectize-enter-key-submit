@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is a little [Selectize](https://github.com/brianreavis/selectize.js) plugin that will allow you to submit the form when a user hits the enter key. The plugin triggers a `submit` event which you can listen to and handle how you will. The event will only be triggered if the input is empty.",
   "scripts": {
-    "test": "jshint src/plugin.js"
+    "test": "standard src/plugin.js"
   },
   "repository": {
     "type": "git",
@@ -11,6 +11,7 @@
   },
   "keywords": [
     "selectize",
+    "plugin",
     "submit",
     "enter"
   ],
@@ -21,6 +22,6 @@
   },
   "homepage": "https://github.com/wayneashleyberry/selectize-enter-key-submit",
   "devDependencies": {
-    "jshint": "^2.5.10"
+    "standard": "^3.11.0"
   }
 }
