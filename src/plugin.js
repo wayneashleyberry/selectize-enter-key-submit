@@ -8,7 +8,6 @@ Selectize.define('enter_key_submit', function (options) {
       if (e.keyCode === 13 && this.$control_input.val() === '') {
         self.trigger('submit')
         e.preventDefault()
-        return
       }
       return original.apply(this, arguments)
     }
