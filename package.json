@@ -1,6 +1,6 @@
 {
   "name": "selectize-enter-key-submit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Submit Selectize forms using the enter key",
   "scripts": {
     "test": "standard src/plugin.js"
