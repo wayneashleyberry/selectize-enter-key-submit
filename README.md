@@ -29,5 +29,5 @@ $('input').selectize({
 
 #### License
 
-[MIT](http://opensource.org/licenses/MIT) © [Wayne Ashley
-Berry](http://www.wayneashleyberry.com)
+[MIT](https://github.com/wayneashleyberry/selectize-enter-key-submit/blob/master/license) © [Wayne Ashley
+Berry](https://wayne.cloud)
